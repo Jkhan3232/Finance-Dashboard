@@ -1,4 +1,4 @@
-const DEFAULT_API_BASE_URL = "https://zorvyn-backend-coral.vercel.app";
+const DEFAULT_API_BASE_URL = "https://zorvyn-backend-sigma.vercel.app";
 
 export const API_BASE_URL =
   import.meta.env.API_BASE_URL ||
